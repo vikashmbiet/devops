@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+   printf("hello world 2020HT66040 \n");
+   return;
+}
